@@ -1,0 +1,24 @@
+h1{
+	color: black;
+	font-size: 70px;
+}
+
+h2{
+	text-align: center
+}
+
+
+
+body {
+	<!-- background-image: url("../images/porsche993_2.jpg"); --> 
+
+}
+div#heading_box {
+	border-width: 2px;
+	border-style: solid;
+	text-align: center;
+	}
+
+.with_yellow{
+	background-color: yellow;
+}
